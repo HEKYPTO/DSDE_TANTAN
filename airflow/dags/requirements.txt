@@ -1,0 +1,7 @@
+pandas>=1.1.5
+requests>=2.25.1
+beautifulsoup4==4.12.3
+pytest>=7.0.1
+Flask>=3.0.0
+pymongot>=4.7.0
+bson>=0.5.10
