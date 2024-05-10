@@ -1,4 +1,4 @@
-# Welcome to the Future of Research: Unleash Your Scholarly Power of Data Science! 🚀
+# Welcome to the Future of ACADEMIC SCOPUS: Unleash Your Scholarly Power of Data Science! 🚀
 
 Hey there, fellow **TANTAN** seeker! 📚 ✨
 
