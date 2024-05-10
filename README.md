@@ -1,6 +1,6 @@
 # Welcome to the Future of Research: Unleash Your Scholarly Power of Data Science! 🚀
 
-Hey there, fellow **TANTAN** seeker! 📚✨
+Hey there, fellow **TANTAN** seeker! 📚 ✨
 
 If you're peeping into this repository, get ready to embark on a wild ride through the digital frontier of scholarly exploration!
 
@@ -26,10 +26,10 @@ Get the experience ⭐️ of dashboard of our project live now ! [StreamLit 🎆
 
 Ready to revolutionize your research game? Strap in, dive into the docs, and let your curiosity run wild! The future of academia is in your hands. Let's make history!
 
-**Remember**: With great data comes great discovery. Let's make some waves! 🌊✨
+**Remember**: With great data comes great discovery. Let's make some waves! 🌊 ✨
 
 ---
 
-*Built with love by Gen-Z researchers for the next era of scholarly exploration.* 🚀🔍
+*Built with love by Gen-Z researchers for the next era of scholarly exploration.* 🚀 🔍
 
-*Questions? Ideas? Collaborations? Hit us up in the issues or drop a line! Let's shape the future together.* 💡💌
+*Questions? Ideas? Collaborations? Hit us up in the issues or drop a line! Let's shape the future together.* 💡 💌
