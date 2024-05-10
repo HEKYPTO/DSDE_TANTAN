@@ -20,7 +20,7 @@ In the thrilling years from 2018 to 2023, researchers like you broke the mold, f
 
 - **Streamlit Sensation**: Experience the future of scholarly interaction in `streamlit`. From BERTopic brilliance to Scopus surprises, it's all here!
 
-Get the experience ⭐️ of dashboard of our project live now ! [StreamLit🎆](https://blackfenzer-bertopic-medblast-vizualizer-main-ztxalh.streamlit.app/)
+Get the experience ⭐️ of dashboard of our project live now ! [StreamLit 🎆](https://blackfenzer-bertopic-medblast-vizualizer-main-ztxalh.streamlit.app/)
 
 ## Get Started!
 
